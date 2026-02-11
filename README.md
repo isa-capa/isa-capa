@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I built my first computer when I was 6 years old 💻and it was made of cardboard**
 
+- 🚀 Portafolio **https://isa-capa.github.io/portfolio/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/isadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isadev" height="30" width="40" /></a>
